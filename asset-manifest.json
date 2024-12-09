@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css",
-    "main.js": "/amira-khalfi-website/static/js/main.e6c9dab5.chunk.js",
-    "main.js.map": "/amira-khalfi-website/static/js/main.e6c9dab5.chunk.js.map",
+    "main.js": "/amira-khalfi-website/static/js/main.b652d7c0.chunk.js",
+    "main.js.map": "/amira-khalfi-website/static/js/main.b652d7c0.chunk.js.map",
     "runtime-main.js": "/amira-khalfi-website/static/js/runtime-main.538ac85d.js",
     "runtime-main.js.map": "/amira-khalfi-website/static/js/runtime-main.538ac85d.js.map",
     "static/js/2.3f295462.chunk.js": "/amira-khalfi-website/static/js/2.3f295462.chunk.js",
     "static/js/2.3f295462.chunk.js.map": "/amira-khalfi-website/static/js/2.3f295462.chunk.js.map",
     "index.html": "/amira-khalfi-website/index.html",
-    "precache-manifest.0ccf9d6fc36f6cf09ee56163c2309039.js": "/amira-khalfi-website/precache-manifest.0ccf9d6fc36f6cf09ee56163c2309039.js",
+    "precache-manifest.17426b27d4cac987f439b84e5b18993a.js": "/amira-khalfi-website/precache-manifest.17426b27d4cac987f439b84e5b18993a.js",
     "service-worker.js": "/amira-khalfi-website/service-worker.js",
     "static/css/main.e248eca4.chunk.css.map": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css.map",
     "static/media/index.css": "/amira-khalfi-website/static/media/Montserrat-Regular.ee653992.ttf",
@@ -89,6 +89,6 @@
     "static/js/runtime-main.538ac85d.js",
     "static/js/2.3f295462.chunk.js",
     "static/css/main.e248eca4.chunk.css",
-    "static/js/main.e6c9dab5.chunk.js"
+    "static/js/main.b652d7c0.chunk.js"
   ]
 }
