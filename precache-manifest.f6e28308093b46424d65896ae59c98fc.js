@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "143e19ec40ddf6ac08ce097f8c89ee82",
+    "revision": "9d88af9fb3f750cfb1fafc761ebd076f",
     "url": "/amira-khalfi-website/index.html"
   },
   {
-    "revision": "1ef6bae6a257635a591a",
+    "revision": "189073c2f47b3170c106",
     "url": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css"
   },
   {
-    "revision": "928b374544eb8fe190e4",
-    "url": "/amira-khalfi-website/static/js/2.3f295462.chunk.js"
+    "revision": "b6f4f96695330adc2030",
+    "url": "/amira-khalfi-website/static/js/2.4b3c5c5d.chunk.js"
   },
   {
-    "revision": "1ef6bae6a257635a591a",
-    "url": "/amira-khalfi-website/static/js/main.b652d7c0.chunk.js"
+    "revision": "189073c2f47b3170c106",
+    "url": "/amira-khalfi-website/static/js/main.3beeac61.chunk.js"
   },
   {
-    "revision": "8f7f8bb4dff925976432",
-    "url": "/amira-khalfi-website/static/js/runtime-main.538ac85d.js"
+    "revision": "53ac61a355c1bd700fc1",
+    "url": "/amira-khalfi-website/static/js/runtime-main.72724597.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
