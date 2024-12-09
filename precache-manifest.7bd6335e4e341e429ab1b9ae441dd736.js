@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb3d96113ee9f07608cf1af52f0ae2d8",
+    "revision": "9ed4802373c0e2c3e951a5782e0af34d",
     "url": "/amira-khalfi-website/index.html"
   },
   {
-    "revision": "f74f834a0f377b2403cb",
+    "revision": "4f9cc8262074a2596035",
     "url": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amira-khalfi-website/static/js/2.3f295462.chunk.js"
   },
   {
-    "revision": "f74f834a0f377b2403cb",
-    "url": "/amira-khalfi-website/static/js/main.596ac5c3.chunk.js"
+    "revision": "4f9cc8262074a2596035",
+    "url": "/amira-khalfi-website/static/js/main.0b3d498d.chunk.js"
   },
   {
     "revision": "8f7f8bb4dff925976432",

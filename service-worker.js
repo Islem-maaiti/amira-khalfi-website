@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amira-khalfi-website/precache-manifest.fc44ecc959bacd7d8ff42f7ece9557a7.js"
+  "/amira-khalfi-website/precache-manifest.7bd6335e4e341e429ab1b9ae441dd736.js"
 );
 
 self.addEventListener('message', (event) => {
