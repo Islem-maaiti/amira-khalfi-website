@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css",
-    "main.js": "/amira-khalfi-website/static/js/main.3beeac61.chunk.js",
-    "main.js.map": "/amira-khalfi-website/static/js/main.3beeac61.chunk.js.map",
+    "main.css": "/amira-khalfi-website/static/css/main.a7a7e439.chunk.css",
+    "main.js": "/amira-khalfi-website/static/js/main.99ee1b1c.chunk.js",
+    "main.js.map": "/amira-khalfi-website/static/js/main.99ee1b1c.chunk.js.map",
     "runtime-main.js": "/amira-khalfi-website/static/js/runtime-main.72724597.js",
     "runtime-main.js.map": "/amira-khalfi-website/static/js/runtime-main.72724597.js.map",
-    "static/js/2.4b3c5c5d.chunk.js": "/amira-khalfi-website/static/js/2.4b3c5c5d.chunk.js",
-    "static/js/2.4b3c5c5d.chunk.js.map": "/amira-khalfi-website/static/js/2.4b3c5c5d.chunk.js.map",
+    "static/js/2.60501856.chunk.js": "/amira-khalfi-website/static/js/2.60501856.chunk.js",
+    "static/js/2.60501856.chunk.js.map": "/amira-khalfi-website/static/js/2.60501856.chunk.js.map",
     "index.html": "/amira-khalfi-website/index.html",
-    "precache-manifest.f6e28308093b46424d65896ae59c98fc.js": "/amira-khalfi-website/precache-manifest.f6e28308093b46424d65896ae59c98fc.js",
+    "precache-manifest.56e6c872577fdebd5bf0d9a5b90f5a78.js": "/amira-khalfi-website/precache-manifest.56e6c872577fdebd5bf0d9a5b90f5a78.js",
     "service-worker.js": "/amira-khalfi-website/service-worker.js",
-    "static/css/main.e248eca4.chunk.css.map": "/amira-khalfi-website/static/css/main.e248eca4.chunk.css.map",
+    "static/css/main.a7a7e439.chunk.css.map": "/amira-khalfi-website/static/css/main.a7a7e439.chunk.css.map",
     "static/media/index.css": "/amira-khalfi-website/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Frauddetectionsystem.png": "/amira-khalfi-website/static/media/Frauddetectionsystem.7680153d.png",
     "static/media/Jenkins.PNG": "/amira-khalfi-website/static/media/Jenkins.fdb8cde6.PNG",
@@ -87,8 +87,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.72724597.js",
-    "static/js/2.4b3c5c5d.chunk.js",
-    "static/css/main.e248eca4.chunk.css",
-    "static/js/main.3beeac61.chunk.js"
+    "static/js/2.60501856.chunk.js",
+    "static/css/main.a7a7e439.chunk.css",
+    "static/js/main.99ee1b1c.chunk.js"
   ]
 }
