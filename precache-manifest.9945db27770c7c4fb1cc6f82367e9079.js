@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ed0e51124c616d3cd779c237b366dbf",
+    "revision": "cacc6d1a080faff02ccd31d7adc7ec77",
     "url": "/Islem-maaiti.github.io/amira-khalfi-website/index.html"
   },
   {
