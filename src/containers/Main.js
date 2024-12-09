@@ -10,12 +10,11 @@ import { settings } from "../portfolio.js";
 
 export default class Main extends Component {
   render() {
-    const basePath = "/amira-khalfi-website";
     return (
-      <BrowserRouter basename={basePath}>
+      <BrowserRouter basename="/amira-khalfi-website">
         <Switch>
           <Route
-            path={`${basePath}/`}
+            path="/"
             exact
             render={(props) =>
               settings.isSplash ? (
@@ -26,39 +25,40 @@ export default class Main extends Component {
             }
           />
           <Route
-            path={`${basePath}/home`}
+            path="/amira-khalfi-website/home"
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
-            path={`${basePath}/experience`}
-            exact
-            render={(props) => (
-              <Experience {...props} theme={this.props.theme} />
-            )}
-          />
-          <Route
-            path={`${basePath}/education`}
+            path="/amira-khalfi-website/education"
             render={(props) => (
               <Education {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path={`${basePath}/opensource`}
+            path="/amira-khalfi-website/experience"
+            exact
+            render={(props) => (
+              <Experience {...props} theme={this.props.theme} />
+            )}
+          />
+          
+          <Route
+            path="/amira-khalfi-website/opensource"
             render={(props) => (
               <Opensource {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path={`${basePath}/contact`}
+            path="/amira-khalfi-website/contact"
             render={(props) => <Contact {...props} theme={this.props.theme} />}
           />
 
-          {settings.isSplash && (
+          {/* {settings.isSplash && (
             <Route
-              path={`${basePath}/splash`}
+              path="/amira-khalfi-website/splash"
               render={(props) => <Splash {...props} theme={this.props.theme} />}
             />
-          )}
+          )} */}
         </Switch>
       </BrowserRouter>
     );

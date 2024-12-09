@@ -184,10 +184,10 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "C",
-          imageSrc: "C_logo.png",
-        },
+        // {
+        //   skillName: "C",
+        //   imageSrc: "C_logo.png",
+        // },
         {
           skillName: "C++",
           imageSrc: "Cplus_logo.png",
